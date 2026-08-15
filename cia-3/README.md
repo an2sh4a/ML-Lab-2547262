@@ -1,5 +1,7 @@
 # Forest Fire Risk Prediction using Ensemble Machine Learning
 
+## Explaination video link : https://drive.google.com/file/d/1OlACrSop4IzvJf1HPFA8CqqAgPeswHUe/view?usp=drive_link
+
 ## 1. Project Overview
 
 This project develops an end-to-end machine learning solution for the
